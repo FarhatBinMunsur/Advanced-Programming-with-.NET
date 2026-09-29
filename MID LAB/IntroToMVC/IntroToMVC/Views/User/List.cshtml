@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div>
+    <h1>Hi,this is the page showing all users</h1>
+
+    @* <button class="btn btn-primary" action="Create" onclick="location.href='/User/Create'">Add user</button>  *@
+    <a asp-action="create" action="Home" class="btn btn-primary">Add User</a> 
+    <table class="table">
+    <thead>
+        <tr>
+            <td>ID</td>
+            <td>Name</td>
+            <td>Email</td>
+
+        </tr>
+        
+    </thead>
+    <tr>
+        <td>01</td>
+        <td>Farhat</td>
+        <td>mahir@gmail.com</td>
+    </tr>
+</table>
+
+</div>
