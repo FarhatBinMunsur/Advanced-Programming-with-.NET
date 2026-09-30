@@ -1,4 +1,4 @@
-namespace IntroToMVC_Practice.Models
+namespace IntroToMVC_practice.Models
 {
     public class ErrorViewModel
     {

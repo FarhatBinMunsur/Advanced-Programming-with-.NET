@@ -1,8 +1,8 @@
-using IntroToMVC_Practice.Models;
+using IntroToMVC_practice.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace IntroToMVC_Practice.Controllers
+namespace IntroToMVC_practice.Controllers
 {
     public class HomeController : Controller
     {
