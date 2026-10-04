@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_practice\\IntroToMVC_practice\\IntroToMVC_practice.csproj": {}
+    "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Practice\\IntroToMVC_practice\\IntroToMVC_practice.csproj": {}
   },
   "projects": {
-    "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_practice\\IntroToMVC_practice\\IntroToMVC_practice.csproj": {
+    "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Practice\\IntroToMVC_practice\\IntroToMVC_practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_practice\\IntroToMVC_practice\\IntroToMVC_practice.csproj",
+        "projectUniqueName": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Practice\\IntroToMVC_practice\\IntroToMVC_practice.csproj",
         "projectName": "IntroToMVC_practice",
-        "projectPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_practice\\IntroToMVC_practice\\IntroToMVC_practice.csproj",
+        "projectPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Practice\\IntroToMVC_practice\\IntroToMVC_practice.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_practice\\IntroToMVC_practice\\obj\\",
+        "outputPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Practice\\IntroToMVC_practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
