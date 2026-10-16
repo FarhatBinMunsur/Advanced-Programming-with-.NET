@@ -1,0 +1,80 @@
+﻿<h1>Registration Form</h1>
+<form method="post" action="/form/submit" enctype="multipart/form-data">
+    <table class="table">
+
+        <tr>
+            <td>Name: <input type="text" name="name" placeholder="Enter your name"/> </td>
+        </tr>
+        
+        <tr>
+            <td>Email: <input type="email" name="email"/></td>
+        </tr>
+
+        <tr>
+            <td>Age: <input type="range" name="age"/></td>
+        </tr>
+
+        <tr>
+            <td>DOB: <input type="date" name="dob"/></td>
+        </tr>
+
+        <tr>
+            <td>Study Hours: <input type="number" value="1" min="1" max="24" name="sthr"/></td>
+        </tr>
+
+        <tr>
+            <td>Password: <input type="password" name="pass"/></td>
+        </tr>
+
+        <tr>
+            <td>Profile Pic: <input type="file" name="dp"/></td>
+        </tr>
+
+        <tr>
+            <td>
+                Gender: <input type="radio" name="gender" value="male"/>Male
+                        <input type="radio" name="gender" value="female"/>Female
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Preffered Device: <input type="checkbox" name="pd" value="smartphone"> Smartphone
+                                  <input type="checkbox" name="pd" value="laptop"/> Laptop
+                                  <input type="checkbox" name="pd" value="desktop"/> Desktop
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Depertment:
+                <select name="dept">
+                <option value="0">Select dept. </option>
+                <option value="cse">CSE</option>
+                <option value="eee">EEE</option>
+                <option vlaue="bba">BBA</option>
+                <option value="coe">COE</option>
+
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                
+                Address:<textarea name="addr"></textarea>
+
+            </td>
+        </tr>
+           
+    </table>
+
+    <div class="d-flex justify-content-center gap-4">
+        <input type="reset" class="btn btn-danger" />
+        <input type="submit" class="btn btn-success" />
+    </div>
+
+    
+
+</form>

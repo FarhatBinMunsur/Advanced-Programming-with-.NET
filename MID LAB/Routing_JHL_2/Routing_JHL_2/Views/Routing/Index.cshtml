@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"]="Custom Title";
+}
+<h1>@ViewBag.id</h1>
+
+<div>
+    <table class="table table-sm caption-top">
+        <caption>List of items</caption>
+        @for (int i = ViewBag.id; i <= 10; i++)
+        {
+            if (i % 2 == 0)
+            {
+                <tr class="table table-warning border-primary ">
+                    <td class=""><h3>Even Item @i</h3></td>
+                </tr>
+                
+            }
+            else
+            {
+                <tr class="table table-info border-danger">
+                    <td><h3>Odd Item @i</h3></td>
+                </tr>
+            }
+        }
+    </table>
+    
+</div>

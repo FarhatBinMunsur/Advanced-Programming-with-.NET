@@ -95,4 +95,4 @@ D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroT
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_Week2\IntroToMVC_Week2\obj\Debug\net10.0\IntroToMVC_Week2.pdb
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_Week2\IntroToMVC_Week2\obj\Debug\net10.0\IntroToMVC_Week2.genruntimeconfig.cache
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_Week2\IntroToMVC_Week2\obj\Debug\net10.0\ref\IntroToMVC_Week2.dll
-D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_Week2\IntroToMVC_Week2\obj\Debug\net10.0\compressed\dxdgdcwe1d-{0}-wxq1849015-wxq1849015.gz
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_Week2\IntroToMVC_Week2\obj\Debug\net10.0\compressed\dxdgdcwe1d-{0}-x9csc41xks-x9csc41xks.gz

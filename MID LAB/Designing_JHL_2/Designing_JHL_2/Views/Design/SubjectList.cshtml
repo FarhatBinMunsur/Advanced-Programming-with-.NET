@@ -1,0 +1,10 @@
+﻿Click the Subject to see the details
+
+<ul>
+    @for(int i = 1; i <= 5; i++)
+    {
+        <li>
+            <a asp-controller="Design" asp-action="TagHelper" asp-route-cid="@i">subject @i</a>
+        </li>
+    }
+</ul>

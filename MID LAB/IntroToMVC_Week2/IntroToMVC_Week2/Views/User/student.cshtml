@@ -1,0 +1,21 @@
+﻿@{
+    Student student1 = new Student
+    {
+        Name = "Mahir",
+        Age = 22
+    };
+
+    Student student2 = new Student
+    {
+        Name = "Nusrat",
+        Age = 21
+    };
+}
+
+@await Html.PartialAsync("_StudentCard", student1)
+
+@await Html.PartialAsync("_StudentCard", student2)
+
+@model Student
+
+<input asp-for="Name" class="form-control"/>

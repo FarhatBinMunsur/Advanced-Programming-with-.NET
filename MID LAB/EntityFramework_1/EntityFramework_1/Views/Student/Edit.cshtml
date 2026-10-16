@@ -1,0 +1,15 @@
+﻿<h1>Update a Student</h1>
+
+<form method="post" action="/student/update/@Model.id">
+
+    Name: <input type="text" name="name"  value="@Model.name"/>
+    <br /> <br />
+    Email: <input type="email" name="email" value="@Model.email" />
+    <br /> <br />
+    CGPA: <input type="text" name="cgpa" value="@Model.cgpa" />
+    <br />
+    <br />
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a href="/student/index" class="btn btn-danger">Back</a>
+</form>

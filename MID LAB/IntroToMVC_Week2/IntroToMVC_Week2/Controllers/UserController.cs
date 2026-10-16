@@ -1,20 +1,27 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using IntroToMVC_Week2.Models;
- 
+﻿using IntroToMVC_Week2.Models;
+using Microsoft.AspNetCore.Mvc;
+
 namespace IntroToMVC_Week2.Controllers
 {
-    //[Route("users")]   
+    [Route("users")]
+    //[Route("[controller]/[action]")]      /** if you want to work this ,comment out the othe routes **/
     public class UserController : Controller
     {
         //[Route("userlist")]
 
         User[] users;
-        public IActionResult Index()
+
+        [Route("list")]
+        public IActionResult Index(int id)
         {
+
             users = new User[5];
 
             for (int i = 0; i < 5; i++)
             {
+                //var user = new User { id = i + 1, name = "Person" + (i + 1), address = "Kuril", email = "person" + (i + 1) + "@gmail.com", phone = "010101010101" };
+                //users[i] = user;
+
                 var user = new User();
                 user.id = i + 1;
                 user.name = "Person" + (i + 1);
@@ -28,7 +35,7 @@ namespace IntroToMVC_Week2.Controllers
             return View(users);
         }
 
-        //[Route("details/{id}")]
+        [Route("profile/details/{id:int}")]
         public IActionResult Details(int id)
         {
             ViewBag.id = id;
@@ -42,6 +49,7 @@ namespace IntroToMVC_Week2.Controllers
 
         }
 
+        [Route("test")]
         public IActionResult test()
 
         {
@@ -53,9 +61,36 @@ namespace IntroToMVC_Week2.Controllers
             return content;
                         *******************
              */
-            
+
             //IF WE USE THE CONTROLLER INHERITANCE
             return Content("This is a page to test return type");
+        }
+
+        [Route("test2")]
+        public IActionResult test2() => View();
+
+        [Route("test3")]
+        public IActionResult test3() => View("test2");
+
+        [Route("student")]
+
+        public IActionResult Student()
+        {
+
+            return View();
+        }
+
+        [Route("create")]
+
+        public IActionResult Create(Student student)
+        {
+
+            if (ModelState.IsValid)
+            {
+                return View("Result", student);
+            }
+
+            return View("Create");
         }
     }
 }

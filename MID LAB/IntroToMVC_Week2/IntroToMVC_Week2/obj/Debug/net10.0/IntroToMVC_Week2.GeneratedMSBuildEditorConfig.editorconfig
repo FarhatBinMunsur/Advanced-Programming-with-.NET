@@ -35,8 +35,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/Shared/_StudentCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50Q2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/User/details.cshtml]
@@ -45,6 +53,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/User/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/User/student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxzdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/User/test2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx0ZXN0Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/User/test3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx0ZXN0My5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/AIUB/AIUB 9th(Fall 26-27) Semester/Advance Prog. with .NET/LAB/MID LAB/IntroToMVC_Week2/IntroToMVC_Week2/Views/_ViewImports.cshtml]

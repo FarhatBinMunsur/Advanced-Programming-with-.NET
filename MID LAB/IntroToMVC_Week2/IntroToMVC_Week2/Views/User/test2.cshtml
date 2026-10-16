@@ -1,0 +1,22 @@
+﻿
+
+<h1>Test 2 View</h1>
+<br/>
+
+@{
+    int a = 20, b = 30;
+    if (a > b) a = b;
+    else b = a;
+}
+
+<p>value of a = @a </p>
+<p>value of b = @b </p>
+
+<h1>@DateTime.Now</h1>
+
+
+@section Scripts {
+    <script>
+        alert("Loaded!");
+    </script>
+}

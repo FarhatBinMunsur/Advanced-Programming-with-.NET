@@ -1,0 +1,26 @@
+﻿<h3 class="alert alert-primary" >Please Confirm the details to delete </h3>
+
+<table class="table table-danger">
+    
+    <tr>
+        <td>Name</td>
+        <td>@Model.name</td>
+    </tr>
+
+    <tr>
+        <td>Email</td>
+        <td>@Model.email</td>
+    </tr>
+
+    <tr>
+    <td>Cgpa</td>
+    <td>@Model.cgpa</td>
+    </tr>
+
+</table>
+
+<form method="post" action="/student/ConfirmDelete/@Model.id">
+
+    <button type="submit" class="btn btn-warning">Delete</button>
+    <a href="/student/index" class="">Not Now</a>
+</form>
