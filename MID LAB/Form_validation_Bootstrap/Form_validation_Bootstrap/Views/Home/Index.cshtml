@@ -1,0 +1,98 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form  class="row g-3 needs-validation" novalidate>
+
+    <div class="col-md-4">
+        First Name:
+        <input type="text" class="form-control" required/>
+
+        <div class="valid-feedback">Correct</div>
+        <div class="invalid-feedback">Not Correct</div>
+
+
+    </div>
+
+    <div class="col-md-4">
+        Last Name:
+        <input type="text" class="form-control" required />
+
+        <div class="valid-feedback">Correct</div>
+    </div>
+
+    <div class="col-md-4">
+        User Name:
+        <div class="input-group">
+            <span class="input-group-text">@@</span>
+            <input type="text" class="form-control" required />
+            <div class="invalid-feedback">Please Choose a username</div>
+        </div>
+
+        
+    </div>
+
+    <div class="col-md-6">
+        City:
+        <input type="text" class="form-control" required />
+
+        <div class="invalid-feedback">Please provide a valid city</div>
+    </div>
+
+    <div class="col-md-3">
+        Division:
+        <select class="form-select" required>
+            <option selected value="">Select division</option>
+            <option >Dhaka</option>
+            <option>Chittagong</option>
+            <option>Mymensingh</option>
+            <option>Sylhet</option>
+
+        </select>
+
+        <div class="invalid-feedback">Please select a District</div>
+    </div>
+
+    <div class="col-md-3">
+        Zip:
+        <input type="text" class="form-control" required/>
+        <div class="invalid-feedback">Please Provide a valid zip.</div>
+
+    </div>
+
+    <div>
+        <input type="checkbox" class="form-check-input" required checked /> 
+        <label class="form-check-label">Agree to terms and conditions</label>
+        <label class="invalid-feedback">You must agree to submit .</label>
+    </div>
+
+    <div class="col-md-12">
+        <button type="submit" class="btn btn-danger ">Submit</button>
+        
+    </div>
+
+
+</form>
+
+<script>
+
+        // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (() => {
+      'use strict'
+
+      // Fetch all the forms we want to apply custom Bootstrap validation styles to
+      const forms = document.querySelectorAll('.needs-validation')
+
+      // Loop over them and prevent submission
+      Array.from(forms).forEach(form => {
+        form.addEventListener('submit', event => {
+          if (!form.checkValidity()) {
+            event.preventDefault()
+            event.stopPropagation()
+          }
+
+          form.classList.add('was-validated')
+        }, false)
+      })
+    })()
+</script>

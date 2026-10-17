@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Form_validation_Bootstrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1967544-84A1-4974-A4E4-BD4E3958D202}|Form_validation_Bootstrap\\Form_validation_Bootstrap.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\form_validation_bootstrap\\form_validation_bootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1967544-84A1-4974-A4E4-BD4E3958D202}|Form_validation_Bootstrap\\Form_validation_Bootstrap.csproj|solutionrelative:form_validation_bootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Form_validation_Bootstrap\\Form_validation_Bootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Form_validation_Bootstrap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Form_validation_Bootstrap\\Form_validation_Bootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Form_validation_Bootstrap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T16:54:21.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

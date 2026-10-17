@@ -1,0 +1,175 @@
+﻿<h1>Registration Form</h1>
+
+<form method="post" action="/form/submit" enctype="multipart/form-data" class="p-3 bg-primary bg-opacity-25 ">
+
+    <div class="mb-1 " >
+        <label for="name" class="form-label">Name:</label>
+
+        <input type="text" name="name" id="name" class="form-control" placeholder="Enter your name" />
+        
+        <div class="form-text"> Name Must be 3 char long. </div>
+    </div>
+
+    <br />
+
+    <div class="form-floating input-group input-group-sm mb-2">
+       
+        <div class="form-floating">
+            <input type="email" class="form-control " name="email" placeholder="example@gmail.com" />
+            <label >Email</label>
+        </div>
+        <span class="input-group-text">@@gmail.com</span>
+    </div>
+
+    <br />
+
+    @* floatiing-labels *@
+    <div class="form-floating">
+        <input type="text" class="form-control" placeholder="Phone number"  value="01234567891"/>
+        <label >Phone</label>
+    </div>
+
+    <br />
+
+    <div>
+        Age:
+        <input type="range" value="1" class="form-range" min="10" max="100" name="age"  />
+    </div>
+
+    <br />
+
+    <div>
+        DOB:
+        <input type="date" name="dob" />
+    </div>
+
+    <br />
+
+    <div>
+        Study Hours:
+        <input type="number" value="1" min="1" max="24" name="sthr" />
+    </div>
+
+    <br />
+
+    <div>
+        Password:
+        <input type="password" name="pass" style="border:none ; border-radius:10px"/>
+    </div>
+
+    <br />
+
+    <div>
+        Profile Pic:
+        <input type="file" name="dp" class="form-control" value="xyyz.png" />
+    </div>
+
+    <br />
+
+    <div>
+        <label class="form-label">Gender:</label>
+        <input type="radio" name="gender" value="male" class="form-check-input"  id="male" /> <label for="male">Male</label>
+        <input type="radio" name="gender" value="female"  /> <label for="female">Female</label>
+        <input type="radio" name="gender" value="none" class="form-check-input" checked disabled /> <label for="female">None</label>
+
+    </div>
+
+    <br />
+
+    <div>
+        Preferred Device:
+
+        <div class="form-check-inline">
+            <input type="checkbox" class="form-check-input" name="pd" role="switch" value="smartphone" id="smartphone" />
+            <label class="form-check-label" for="smartphone">Smartphone</label>
+        </div>
+
+        <div class="form-check-inline">
+            <input type="checkbox" class="form-check-input" name="pd" value="laptop" id="laptop" checked disabled/>
+            <label class="form-check-label" for="laptop">Laptop</label>
+        </div>
+
+        <div class="form-check-inline">
+            <input type="checkbox" class="form-check-input" name="pd" value="desktop" id="desktop" />
+            <label class="form-check-label" for="desktop">Desktop</label>
+        </div>
+    </div>
+
+
+    <br />
+
+    <div class="input-group">
+        <label class="input-group-text">Depertment</label>
+        <select name="dept"  class="form-select"  >
+            <option selected disabled>Select dept..</option>
+            <option value="cse" >CSE</option>
+            <option value="eee">EEE</option>
+            <option value="bba">BBA</option>
+            <option value="coe">COE</option>
+        </select>
+    </div>
+
+    <br />
+
+    <div class="form-floating">
+        <textarea name="addr" class="form-control" placeholder="Address" style="height: 100px"></textarea>
+        <label>Address</label>
+
+    </div>
+
+    <br />
+
+    
+    <div class="border border-2 border-black pt-3 ps-2 mb-2">
+        <label class="form-label">I am a : </label>
+        <div class="form-check-inline form-check-reverse form-switch ">
+            <input type="radio" name="role" value="Student" class="form-check-input mb-4" role="switch" readonly id="student" />
+            <label class="form-check-label" for="student">Student</label>
+        </div>
+        <div class="form-check-inline form-check-reverse form-switch">
+            <input type="radio" name="role" value="Faculty" class="form-check-input mb-4" role="switch" readonly id="faculty" />
+            <label class="form-check-label" for="faculty">Faculty</label>
+        </div>
+    </div>
+
+
+    @*  <div class="input-group border border-2 border-black pt-3 ps-2 pb-3 mb-2 ">
+        
+        <label class="form-label ">TYPE : </label>
+        
+        <div class="form-check-inline ms-2">
+            <input type="radio" name="type"  value="rg" class="btn-check mb-4" id="regular" />
+            <label class="btn btn-outline-danger" for="regular">Regular</label>
+        </div>
+        <div class="form-check-inline">
+            <input type="radio" name="type" value="pt" class="btn-check mb-4" id="part-time" />
+            <label class="btn btn-outline-success ms-0" for="part-time">Part-time</label>
+        </div>
+   
+        <input class="form-control"/>
+    </div> *@
+
+ 
+    <div class="input-group border border-2 border-black pt-3 ps-2 pe-3 pb-3 mb-2 ">
+
+        <label class="form-label ">TYPE : </label>
+
+        
+            <input type="radio" name="type" value="rg" class="btn-check mb-4 rounded-bottom" id="regular" />
+            <label class="btn btn-outline-danger ms-2" for="regular">Regular</label>
+        
+            <input type="radio" name="type" value="pt" class="btn-check mb-4" id="part-time" />
+            <label class="btn btn-outline-success ms-0" for="part-time">Part-time</label>
+        
+
+        <input class="form-control text-danger bg-secondary-subtle" value="Select part Time if you are faculty. " readonly />
+    </div>
+
+    <div class="d-flex justify-content-center gap-4 p-2 bg-warning-subtle ">
+        <input type="reset" class="btn btn-danger" />
+        <input type="submit" class="btn btn-success" />
+    </div>
+
+    
+
+</form>
