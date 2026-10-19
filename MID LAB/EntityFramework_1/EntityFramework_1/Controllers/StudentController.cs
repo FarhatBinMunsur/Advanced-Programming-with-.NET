@@ -39,7 +39,7 @@ namespace EntityFramework_1.Controllers
                 adc.SaveChanges();
                 return RedirectToAction("Index");
             }
-            return View();
+            return View(student);
         }
 
         public IActionResult Edit(int id) { 
@@ -100,6 +100,18 @@ namespace EntityFramework_1.Controllers
             }
 
             return View("Index");
+
+        }
+
+        public IActionResult Filter(string cgfilter)
+        {
+            double cg =Double.Parse(cgfilter);
+
+            var students = adc.student.Where(s=>s.cgpa>=cg).ToList(); //List<Student> students = adc.student.ToList();       -> so students type is List
+            //return Json(students);
+
+            return View("Index",students);
+
 
         }
     }
