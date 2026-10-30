@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using IntroToMVC.Models;
 
 namespace IntroToMVC.Controllers
 {
@@ -22,7 +23,7 @@ namespace IntroToMVC.Controllers
         public IActionResult Details(int id)
         {
 
-            var user = new Models.UserModel()
+            var user = new UserModel()
             {
                 id = id,
                 name = "Farhat",

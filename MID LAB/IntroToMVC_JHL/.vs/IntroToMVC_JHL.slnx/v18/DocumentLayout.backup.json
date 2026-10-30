@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D1909608-AA3C-4003-9AD9-D32D010745BA}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_jhl\\introtomvc_jhl\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D66BC41-7D25-43CE-C3B3-2EEC9DE98D11}|IntroToMVC_JHL\\IntroToMVC_JHL.csproj|solutionrelative:introtomvc_jhl\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,72 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CourseController.cs",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "IntroToMVC_JHL\\Controllers\\CourseController.cs",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Controllers\\CourseController.cs",
               "RelativeToolTip": "IntroToMVC_JHL\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDQAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-09T14:09:41.432Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Program.cs",
-              "RelativeDocumentMoniker": "IntroToMVC_JHL\\Program.cs",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Program.cs",
-              "RelativeToolTip": "IntroToMVC_JHL\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T15:27:52.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Views\\Course\\Details.cshtml",
-              "RelativeDocumentMoniker": "IntroToMVC_JHL\\Views\\Course\\Details.cshtml",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Views\\Course\\Details.cshtml",
-              "RelativeToolTip": "IntroToMVC_JHL\\Views\\Course\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-09T14:40:00.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Views\\Course\\List.cshtml",
-              "RelativeDocumentMoniker": "IntroToMVC_JHL\\Views\\Course\\List.cshtml",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Views\\Course\\List.cshtml",
-              "RelativeToolTip": "IntroToMVC_JHL\\Views\\Course\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-09T14:22:46.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IntroToMVC_JHL\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IntroToMVC_JHL\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-09T14:19:12.89Z",
               "EditorCaption": ""
             },
             {
@@ -116,7 +64,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Program.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_JHL\\Program.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Program.cs",
+              "RelativeToolTip": "IntroToMVC_JHL\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T15:27:52.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_JHL\\Views\\Course\\Details.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "IntroToMVC_JHL\\Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-09T14:40:00.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Views\\Course\\List.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_JHL\\Views\\Course\\List.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Views\\Course\\List.cshtml",
+              "RelativeToolTip": "IntroToMVC_JHL\\Views\\Course\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-09T14:22:46.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IntroToMVC_JHL\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IntroToMVC_JHL\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-09T14:19:12.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_JHL\\IntroToMVC_JHL\\Views\\Course\\Index.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC_JHL\\Views\\Course\\Index.cshtml",
@@ -124,8 +121,7 @@
               "RelativeToolTip": "IntroToMVC_JHL\\Views\\Course\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-09T14:15:49.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-09T14:15:49.087Z"
             }
           ]
         }

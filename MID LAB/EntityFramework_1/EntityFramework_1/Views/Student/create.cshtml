@@ -1,49 +1,66 @@
-﻿@* @model Student; *@
+﻿@model Student; 
 
 <h1>Add a Student</h1>
 
-<form method="post" action="create">
-     
-    <div class="mb-3">
-        
-        <span>ID: </span> 
-        <input type="text" class="form-control-inline w-25" value="Auto Generated" readonly />
-    </div>
+<div class="row">
 
-    <div class="form-floating">
+    <div name="form" class="col-8">
+
+        <form method="post" action="create">
+     
+        <div class="mb-3">
+        
+            <span>ID: </span> 
+            <input type="text" class="form-control-inline w-25" value="Auto Generated" readonly />
+        </div>
+
+        <div class="form-floating">
     
         
-        <input type="text" name="name" class="form-control h3" placeholder="Enter name" value="@Model?.name" />
-        <label>Name</label>
-        <span class="text-danger fs-6 fw-bold">@Html.ValidationMessage("name")</span>
+            <input type="text" asp-for="name" class="form-control h3" placeholder="Enter name" />
+            <label asp-for="name"></label>
+            <span class="text-danger fs-6 fw-bold">@Html.ValidationMessage("name")</span>
+            <br /> <br />
+    
+        </div>
+
+        <label >Email</label>
+        <input type="text" name="email" value="@Model?.email"/>
+         <span>@Html.ValidationMessage("email")</span>
         <br /> <br />
     
+        
+        @Html.LabelFor(m=>m.cgpa)
+        @Html.TextBoxFor(m=>m.cgpa)
+        @Html.ValidationMessageFor(m => m.cgpa) 
+        <span>@Html.ValidationMessage("cgpa")</span>
+    
+
+        <br />
+        <br />
+        
+        <button type="submit" class="btn btn-primary" >Create</button>
+
+        @Html.TextBox("Nameeee")
+
+        <div></div>
+        </form>
+
+
     </div>
 
-    Email: <input type="text" name="email" value="@Model?.email"/>
-     <span>@Html.ValidationMessage("email")</span>
-    <br /> <br />
-    
-    CGPA: <input type="text" name="cgpa" value="@Model?.cgpa" />
-    <span>@Html.ValidationMessage("cgpa")</span>
-    
+    <div name="data" class="col-4">
+        <div class="text-start">
+            <div class=" p-4 mt-4 border border-3 bw-6 w-100 border-danger d-inline-block ">
+            <h3 class="text-success">Entered Data</h3>
+            Name:@Model?.name  <br />
+            Email:@Model?.email <br />
+            CGPA:@Model?.cgpa  </br>
 
-    <br />
-    <br />
-
-    <button type="submit" class="btn btn-primary" >Create</button>
-
-    <div></div>
-</form>
-
-
-
-<div class="text-center">
-    <div class=" p-4 mt-4 border border-3 bw-5 border-danger d-inline-block ">
-    <h3 class="text-success">Entered Data</h3>
-    Name:@Model?.name  <br />
-    Email:@Model?.email <br />
-    CGPA:@Model?.cgpa  </br>
+            </div>
+        </div>
 
     </div>
 </div>
+
+

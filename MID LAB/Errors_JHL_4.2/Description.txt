@@ -1,0 +1,1 @@
+We may have same validation for different types of users or different types of models. So we made a custom Validation attribute and from different model we are calling the attribute To check the Error.

@@ -9,13 +9,13 @@
     <div>
         <label asp-for="Name"></label>
         <input asp-for="Name" />
-        <span asp-validation-for="Name" class="text-danger"></span>
+        <span asp-validation-for="Name" class="text-danger  fw-bold"></span>
     </div>
 
     <div>
         <label asp-for="Age"></label>
-        <input asp-for="Age" />
-        <span asp-validation-for="Age"></span>
+        <input asp-for="Age" min="10" />
+        <span asp-validation-for="Age" class="text-danger  fw-bold"></span>
     </div>
 
 

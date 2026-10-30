@@ -24,10 +24,14 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="List">UserList</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Details">Details</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Details" asp-route-cid="2">Details</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="index">Home</a>
+                        </li>
+
+                        <li>
+                            <a class="nav-link text-info" asp-action="create" asp-controller="user">Add User</a>
                         </li>
                     </ul>
                 </div>

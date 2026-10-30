@@ -1,0 +1,26 @@
+﻿@model Student
+
+<h1>CREATE</h1>
+
+<form method="post" action="../Student/Index">
+
+    <input asp-for="Id" type="hidden" value="1"/>
+    <label asp-for="Name"></label>
+    <input asp-for="Name"/>
+    <span class="text-danger">@Html.ValidationMessage("Name")</span>
+
+    <br /> <br />
+    <label asp-for="Cgpa"></label>
+    <input asp-for="Cgpa"/>
+    <span>@Html.ValidationMessageFor(m=>m.Cgpa)</span>
+    <br /> <br />
+
+    <label asp-for="Dept"></label>
+    <input asp-for="Dept"/>
+    <span>@Html.ValidationMessageFor(m=>m.Dept)</span>
+
+    <br /> <br />
+
+    <input type="submit" class="btn btn-danger"/>
+</form>
+

@@ -5,7 +5,7 @@ namespace IntroToMVC_Week2.Controllers
 {
     [Route("users")]
     //[Route("[controller]/[action]")]      /** if you want to work this ,comment out the othe routes **/
-    public class UserController : Controller
+    public class UserController:Controller
     {
         //[Route("userlist")]
 
@@ -49,22 +49,6 @@ namespace IntroToMVC_Week2.Controllers
 
         }
 
-        [Route("test")]
-        public IActionResult test()
-
-        {
-
-            /*IF WE DONT USE THE CONTROLLER INHERITANCE
-                        *******************
-            var content = new ContentResult();
-            content.Content = "This is a page to test return type (Didnt use Controller inheritance)";
-            return content;
-                        *******************
-             */
-
-            //IF WE USE THE CONTROLLER INHERITANCE
-            return Content("This is a page to test return type");
-        }
 
         [Route("test2")]
         public IActionResult test2() => View();
@@ -81,11 +65,12 @@ namespace IntroToMVC_Week2.Controllers
         }
 
         [Route("create")]
-
+        [HttpGet]
+        [HttpPost]
         public IActionResult Create(Student student)
         {
 
-            if (ModelState.IsValid)
+            if (ModelState.IsValid)     //ModelState.IsValid checks whether the inputted values follow the validation rules or not
             {
                 return View("Result", student);
             }

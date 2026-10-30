@@ -1,0 +1,36 @@
+﻿<table class="table table-bordered">
+    <tr>
+        <th>Name: </th>
+        <th>:</th>
+        <td>@Model.Name</td>
+    </tr>
+
+    <tr>
+        <th>Age: </th>
+        <th>:</th>
+        <td>@Model.Age</td>
+    </tr>
+
+    <tr>
+        <th>Date of Birth: </th>
+        <th>:</th>
+        <td>@Model.Dob</td>
+    </tr>
+
+
+
+    @{
+        Dictionary<string, string> Depts = new()
+            {
+                ["1"] = "CSE",
+                ["2"] = "EEE",
+                ["3"] = "BBA"
+            };
+    }
+    <tr>
+        <th>Depertment: </th>
+        <th>:</th>
+        <td>@Depts[Model.Dept]</td>
+    </tr>
+
+</table>

@@ -21,7 +21,7 @@ namespace Practice_Form.Controllers
             ViewBag.gender = gender;
             ViewBag.sthr = sthr;
             ViewBag.dob=dob.ToString("dd-MM-yyyy");         //***
-            ViewBag.pd=string.Join(",",pd);                //***
+            ViewBag.pd=string.Join(" and ",pd);                //***
             ViewBag.dept=dept;
             ViewBag.addr=addr;
             ViewBag.dp=dp.FileName;

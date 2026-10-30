@@ -194,5 +194,3 @@ D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Practi
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Practice_Form_2\Practice_Form\obj\Debug\net10.0\Practice_Form.pdb
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Practice_Form_2\Practice_Form\obj\Debug\net10.0\Practice_Form.genruntimeconfig.cache
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Practice_Form_2\Practice_Form\obj\Debug\net10.0\ref\Practice_Form.dll
-D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Practice_Form_2\Practice_Form\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
-D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Practice_Form_2\Practice_Form\obj\Debug\net10.0\Practice.523305B6.Up2Date

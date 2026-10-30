@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\user\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\views\\user\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\user\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\views\\user\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\shared\\_studentcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\views\\shared\\_studentcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\user\\test2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,8 +47,8 @@
       "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|solutionrelative:introtomvc_week2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96739A40-CABF-FA32-AFB5-B92B1D8521DD}|IntroToMVC_Week2\\IntroToMVC_Week2.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc_week2\\introtomvc_week2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,19 +82,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\User\\Index.cshtml",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "IntroToMVC_Week2\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwCAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-06T07:29:37.962Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_Week2\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IntroToMVC_Week2\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEgAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T11:56:30.668Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -92,57 +126,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "IntroToMVC_Week2\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "IntroToMVC_Week2\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-10-09T18:00:32.626Z"
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "IntroToMVC_Week2\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T13:59:50.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_Week2\\Models\\Student.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Models\\Student.cs",
+              "RelativeToolTip": "IntroToMVC_Week2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:38:06.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\Result.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\User\\Result.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\Result.cshtml",
+              "RelativeToolTip": "IntroToMVC_Week2\\Views\\User\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T14:04:16.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "student.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\student.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\User\\student.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\student.cshtml",
+              "RelativeToolTip": "IntroToMVC_Week2\\Views\\User\\student.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T13:40:59.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_StudentCard.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\Shared\\_StudentCard.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\Shared\\_StudentCard.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\Shared\\_StudentCard.cshtml",
+              "RelativeToolTip": "IntroToMVC_Week2\\Views\\Shared\\_StudentCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T13:39:07.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "test2.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\test2.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\User\\test2.cshtml",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\test2.cshtml",
               "RelativeToolTip": "IntroToMVC_Week2\\Views\\User\\test2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-09T17:47:49.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-09T17:47:49.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Program.cs",
               "RelativeDocumentMoniker": "IntroToMVC_Week2\\Program.cs",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Program.cs",
               "RelativeToolTip": "IntroToMVC_Week2\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-09T17:17:17.801Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "IntroToMVC_Week2\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Controllers\\UserController.cs",
-              "RelativeToolTip": "IntroToMVC_Week2\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T11:56:30.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "details.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\User\\details.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\User\\details.cshtml",
@@ -163,11 +236,12 @@
               "RelativeToolTip": "IntroToMVC_Week2\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T07:20:47.403Z"
+              "WhenOpened": "2026-10-06T07:20:47.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\Home\\Privacy.cshtml",
@@ -179,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "bootstrap.js",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "IntroToMVC_Week2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
@@ -191,7 +265,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntroToMVC_Week2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T07:40:57.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "IntroToMVC_Week2\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "IntroToMVC_Week2\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-09T18:00:32.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "site.js",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "IntroToMVC_Week2\\wwwroot\\js\\site.js",
@@ -203,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\appsettings.json",
               "RelativeDocumentMoniker": "IntroToMVC_Week2\\appsettings.json",
@@ -215,20 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "IntroToMVC_Week2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-06T07:40:57.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC_Week2\\IntroToMVC_Week2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC_Week2\\Views\\Home\\Index.cshtml",

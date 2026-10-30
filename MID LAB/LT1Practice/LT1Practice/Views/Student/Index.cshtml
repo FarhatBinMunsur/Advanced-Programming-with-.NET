@@ -1,0 +1,32 @@
+﻿
+<h1>Student List </h1>
+
+<table class="table table-light">
+    <tr>
+        
+        <th>ID</th>
+        <th>Name</th>
+        <th>CGPA</th>
+        <th>Dept</th>
+        <th>Action</th>
+
+    </t>
+
+    <tr>
+        <td>@ViewBag.Student.Id</td>
+        <td>@ViewBag.Student.Name</td>
+        <td>@ViewBag.Student.Cgpa</td>
+        <td>@ViewBag.Student.Dept</td>
+        <td>
+            <a asp-controller="Student" asp-action="details" 
+            asp-route-id="@ViewBag.Student.Id" 
+            asp-route-name="@ViewBag.Student.Name" 
+            asp-route-cgpa="@ViewBag.Student.Cgpa" 
+            asp-route-dept="@ViewBag.Student.Dept" 
+            class="btn btn-primary">Details</a>
+        </td>
+
+    </tr>
+    
+</table>
+

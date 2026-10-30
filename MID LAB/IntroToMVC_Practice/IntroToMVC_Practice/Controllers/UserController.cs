@@ -5,9 +5,10 @@ namespace IntroToMVC_practice.Controllers
     [Route("users")]
     public class UserController : Controller
     {
-        [Route("home")]
-        public IActionResult Index()
+        [Route("home/{id?}")]
+        public IActionResult Index(int id)
         {
+            ViewBag.id = id;
             return View();
         }
 
@@ -23,14 +24,14 @@ namespace IntroToMVC_practice.Controllers
             return View();
         }
 
-        [Route("view/{id}")]
-        public  IActionResult Details(int id)
+        [Route("view/{cid}")]
+        public  IActionResult Details(int cid)
         {
             var user =new Models.UserModel()
             {
-                id=id,
+                id=cid,
                 name="Farhat",
-                email="farhat@gm.com"
+                email="farhat@gmail.com"
             };
             return View(user);
         }

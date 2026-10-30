@@ -9,7 +9,6 @@ namespace EntityFramework_1.EF
         public AppDbContext(DbContextOptions<AppDbContext>options): base(options) { 
             
         }
-
         public DbSet<Student> student {  get; set; }
 
     }

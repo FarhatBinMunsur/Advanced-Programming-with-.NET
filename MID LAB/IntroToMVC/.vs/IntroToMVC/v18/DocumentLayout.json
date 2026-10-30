@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\introtomvc\\introtomvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EAF9DE-3603-44C1-9B62-B0F2257FBB53}|IntroToMVC\\IntroToMVC.csproj|solutionrelative:introtomvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +46,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IntroToMVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:25:37.667Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "IntroToMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "IntroToMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T16:36:08.237Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -50,13 +89,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "IntroToMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T16:30:00.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "IntroToMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBwAAAB5AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBwAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-30T16:25:37.574Z",
               "EditorCaption": ""
@@ -69,40 +121,40 @@
               "RelativeDocumentMoniker": "IntroToMVC\\Views\\User\\Details.cshtml",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\User\\Details.cshtml",
               "RelativeToolTip": "IntroToMVC\\Views\\User\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-30T16:25:37.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC\\Views\\User\\Create.cshtml",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\User\\Create.cshtml*",
-              "RelativeToolTip": "IntroToMVC\\Views\\User\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "IntroToMVC\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-30T16:25:37.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "List.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\User\\List.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC\\Views\\User\\List.cshtml",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\User\\List.cshtml",
               "RelativeToolTip": "IntroToMVC\\Views\\User\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-30T16:25:37.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "IntroToMVC\\Views\\User\\Index.cshtml",
@@ -111,19 +163,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-30T16:25:37.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "IntroToMVC\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\IntroToMVC\\IntroToMVC\\Controllers\\UserController.cs",
-              "RelativeToolTip": "IntroToMVC\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T16:25:37.667Z",
               "EditorCaption": ""
             },
             {

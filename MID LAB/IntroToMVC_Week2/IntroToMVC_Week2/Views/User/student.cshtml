@@ -12,10 +12,11 @@
     };
 }
 
-@await Html.PartialAsync("_StudentCard", student1)
+@await Html.PartialAsync("_StudentCard", student1) @*Sending Student object to Partial View*@
 
 @await Html.PartialAsync("_StudentCard", student2)
 
-@model Student
 
+
+@model Student  //without this,we cant use asp-for
 <input asp-for="Name" class="form-control"/>

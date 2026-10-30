@@ -15,10 +15,10 @@ namespace Routing_JHL_2.Controllers
         [Route("second/{p1:int?}/{p3:int:min(10)?}")]
         public IActionResult Twoparam(int p1,int p3)
         {
-            //var result = p1 + p3;
-            //return Content(result.ToString());
+            var result = p1 + p3;
+            return Content(result.ToString());
 
-            return Content(p1.ToString()+p3.ToString());
+            //return Content(p1.ToString()+p3.ToString());
         }
 
         [Route("Testing")]

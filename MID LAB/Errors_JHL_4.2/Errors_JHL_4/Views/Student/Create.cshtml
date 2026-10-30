@@ -1,0 +1,42 @@
+﻿@model Student
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<div asp-validation-summary="All" class="text-info"></div>
+
+<form method="post">
+    Name: <input asp-for="Name" value="@Model?.Name" class="form-control" />
+    <span>
+        @Html.ValidationMessageFor(m => m.Name,"",new { @class = "text-danger fw-bold" })
+    </span>    
+    <br />
+    <br />
+
+    Age: <input asp-for="Age" value="@Model?.Age" class="form-control" readonly /> />
+    <span class="text-danger fst-italic" asp-validation-for="Age"></span>
+
+    <br /> <br />
+
+    <label asp-for="Dob"></label>
+    <input asp-for="Dob" />
+    
+    <br /> <br />
+
+    Gender: 
+    <select class="form-select" asp-for="Dept" asp-items="ViewBag.deptlist">
+        <option selected disabled value="0">Select your Depertment</option>
+    </select>
+    <span asp-validation-for="Dept"></span>
+    
+    <br /> <br />
+    <input type="submit" class="btn btn-danger" />
+</form>
+
+@Html.ValidationSummary(true,"Please fix the errors :",new{ @class="text-danger"})      @*ModelOnly*@
+@Html.ValidationSummary(false, "Please fix the errors :", new { @class = "text-success" })  @*All*@
+
+
+<div class="col-3"></div>
+
+@* @section Scripts{
+    @Html.Partial("_ValidationScriptsPartial");
+} *@

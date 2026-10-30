@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Practice_Form\\Views\\Form\\Index.cshtml",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Practice_Form\\Practice_Form\\Views\\Form\\Index.cshtml",
               "RelativeToolTip": "Practice_Form\\Views\\Form\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-15T18:26:25.956Z",
               "EditorCaption": ""
@@ -72,8 +72,7 @@
               "RelativeToolTip": "Practice_Form\\Views\\Form\\Submit.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-15T18:36:39.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T18:36:39.207Z"
             }
           ]
         }
