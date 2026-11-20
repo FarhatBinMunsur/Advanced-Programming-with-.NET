@@ -1,0 +1,20 @@
+﻿@model dynamic
+
+<h1>Average Salary</h1>
+
+<table class="table">
+    <tr>
+        <th>Department</th>
+        <th>Average Salary</th>
+    </tr>
+
+    @foreach(var avg in Model){
+        
+        <tr>
+            <td>@avg.Dept</td>
+            <td>@avg.avgSal</td>
+
+        </tr>
+
+    }
+</table>

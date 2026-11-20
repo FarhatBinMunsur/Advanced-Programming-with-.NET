@@ -1,0 +1,59 @@
+﻿@model List<Employee>
+<h1>
+    Employee List
+</h1>
+
+
+<a asp-action="Create" class="btn btn-warning">Create </a>
+
+@if(ViewData["Nodata"] != null)
+    {
+        <h4>@ViewData["Nodata"]</h4>
+    }
+
+<table class="table">
+
+    <tr>
+        <th>Employee ID</th>
+        <th>Employee Name</th>
+        <th>Department</th>
+        <th>Salary</th>
+        <th>Experience Years</th>
+        <th>Joined At</th>
+        <th>Action</th>
+
+    </tr>
+
+    @foreach(var emp in Model)
+    {
+        <tr class="@(emp.Salary >= 80000?"table table-success" : "table table-secondary") ">
+            <td>@emp.EmpId</td>
+            <td>@emp.Empname</td>
+            <td>@emp.Department</td>
+            <td>@emp.Salary</td>
+            <td>@emp.ExperienceYears</td>
+            <td>@emp.JoinedAt</td>
+           
+
+            <td>
+                <a asp-action="Update" asp-route-id="@emp.EmpId" class="btn btn-primary">Update Employee @emp.EmpId</a>
+                <a asp-action="Delete" asp-route-id="@emp.EmpId" class="btn btn-danger">Delete</a>
+            </td>
+
+            
+            @if (emp.ExperienceYears > 5)
+            {
+                <td>Senior</td>   
+            }
+            
+            @if (emp.ExperienceYears <= 2)
+            {
+                <td>junior</td>
+            }
+        </tr>
+    }
+
+</table>
+
+<a asp-action="SeniorEmployees" class="btn btn-info">SenEmp</a>
+<a asp-action="Index" class="btn btn-info">All Emp</a>

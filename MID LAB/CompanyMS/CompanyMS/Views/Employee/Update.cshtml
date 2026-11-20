@@ -1,0 +1,26 @@
+﻿@model Employee
+<h1>Update @Model.EmpId</h1>
+
+<form method="post" asp-controller="Employee" asp-action="Update">
+
+    <input type="hidden" asp-for="EmpId"/>
+    <br />
+
+    Name: <input asp-for="Empname" value="@Model.Empname"/>
+    <br />
+
+    Department: <input asp-for="Department" value="@Model.Department" />
+    <br />
+
+    Salary: <input asp-for="Salary" value="@Model.Salary"/>
+    <br />
+
+    ExperienceYears: <input asp-for="ExperienceYears" value="@Model.ExperienceYears">
+    <br />
+
+    JoinedAt: <input asp-for="JoinedAt" value="@Model.JoinedAt" value="@Model.JoinedAt.ToString("yyyy-MM-ddTHH:mm")"/>
+    <br />
+
+    <input type="submit" value="Submit" />
+
+</form>

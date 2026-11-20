@@ -14,21 +14,25 @@ namespace Errors_JHL_4.Controllers
 
         public IActionResult Create()
         {
-            var deptList = new List<SelectListItem>();
+            //var deptList = new List<SelectListItem>();
 
-            var male=new SelectListItem();
-            male.Text = "CSE";
-            male.Value = "1";
-            deptList.Add(male); 
+            //var male=new SelectListItem();
+            //male.Text = "CSE";
+            //male.Value = "1";
+            //deptList.Add(male);  
 
-            //Or we can do this way
-            deptList.Add(new SelectListItem
-            {
-                Text = "EEE",
-                Value = "2"
-            });
+            ////Or we can do this way
+            //deptList.Add(new SelectListItem()
+            //{
+            //    Text = "EEE",
+            //    Value = "2"
+            //});
 
-            deptList.Add(new SelectListItem("BBA","3"));
+            //deptList.Add(new SelectListItem("BBA","3"));
+
+
+            //Optimization 
+            var deptList = new List<SelectListItem>() { new SelectListItem("CSEEE", "1"), new SelectListItem("EEE", "2"), new SelectListItem("BBA","3") };
 
             ViewBag.deptList = deptList;
 

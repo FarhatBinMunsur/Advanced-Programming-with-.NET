@@ -15,7 +15,7 @@ namespace Designing_JHL_2.Controllers
         {
 
             return View(5);
-        }
+        }            
 
         public IActionResult checkData(int id)
         {

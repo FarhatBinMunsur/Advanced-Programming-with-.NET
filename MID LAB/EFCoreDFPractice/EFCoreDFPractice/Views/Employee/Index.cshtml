@@ -1,0 +1,61 @@
+﻿@model List<Employee>
+
+@{
+    if (ViewBag.empty !=null)
+    {
+    <h3>@ViewBag.empty</h3>
+    }
+
+
+    else{
+    <h1>Employee List</h1>
+
+    <table class="table table-info">
+
+    <tr>
+        <th>ID</th>
+        <th>Employee Name</th>
+        <th>Depertment</th>
+        <th>Salary</th>
+        <th>Experience Years</th>
+        <th>Joining Date</th>
+        <th>Badge</th>
+
+    </tr>
+
+    @foreach (var emp in Model)
+    {
+        <tr class="@(emp.Salary>80000?"table table-success":"table table-secondary")">
+            <td>@emp.EmpId</td>
+            <td>@emp.EmpName</td>
+            <td>@emp.Depertment</td>
+            <td>@emp.Salary</td>
+            <td>@emp.ExperienceYears</td>
+            <td>@emp.JoinedAt</td>
+
+            @{
+                if (emp.ExperienceYears > 5)
+                {
+                <td class="table-warning">Senior</td>
+                }
+
+                else if (emp.ExperienceYears <2)
+                {
+                <td class="table-warning">Junior</td>
+                }
+            }
+
+        </tr>
+
+        
+    }
+
+    </table>
+
+    <br />
+
+    <a asp-action="SeniorEmployees" asp-controller="Employee" class="btn btn-primary">Senior Employees</a>
+}
+}
+
+

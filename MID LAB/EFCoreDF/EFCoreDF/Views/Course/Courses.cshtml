@@ -1,0 +1,42 @@
+﻿@model List<Course>
+
+<div class="row">
+
+    <div class="col-11 ">
+        <h1>Course List</h1>
+    </div>
+
+    <div class="col-1 ">
+        <a asp-action="Create" asp-controller="Course" class="btn btn-success ">Create </a>
+    </div>
+
+</div>
+
+<table class="table"> 
+
+    <tr>
+        <th>Course ID</th>
+        <th>Course Name</th>
+        <th>Course Credit</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach( var crs in Model)
+    {
+        <tr>
+            <td>@crs.Id</td>
+            <td>@crs.CourseName</td>
+            <td>@crs.Credit</td>
+            <td>
+                <a  asp-action="Update" asp-controller="Course" class="btn btn-primary" asp-route-id="@crs.Id">Update</a>
+                <a asp-action="Delete" asp-controller="Course"  asp-route-id="@crs.Id" class="btn btn-danger">Delete</a>
+
+            </td>
+        </tr>
+        
+    }
+
+
+
+
+</table>

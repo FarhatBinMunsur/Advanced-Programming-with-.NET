@@ -1,0 +1,9 @@
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_JHL\IntroToMVC_JHL\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_JHL\IntroToMVC_JHL\obj\Debug\net8.0\IntroToMVC_JHL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_JHL\IntroToMVC_JHL\obj\Debug\net8.0\IntroToMVC_JHL.AssemblyInfoInputs.cache
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_JHL\IntroToMVC_JHL\obj\Debug\net8.0\IntroToMVC_JHL.AssemblyInfo.cs
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_JHL\IntroToMVC_JHL\obj\Debug\net8.0\IntroToMVC_JHL.csproj.CoreCompileInputs.cache
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_JHL\IntroToMVC_JHL\obj\Debug\net8.0\IntroToMVC_JHL.MvcApplicationPartsAssemblyInfo.cache
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_JHL\IntroToMVC_JHL\obj\Debug\net8.0\IntroToMVC_JHL.RazorAssemblyInfo.cache
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_JHL\IntroToMVC_JHL\obj\Debug\net8.0\IntroToMVC_JHL.RazorAssemblyInfo.cs
+D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\IntroToMVC_JHL\IntroToMVC_JHL\obj\Debug\net8.0\IntroToMVC_JHL.sourcelink.json

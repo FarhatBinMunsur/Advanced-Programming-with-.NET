@@ -30,16 +30,27 @@
                 </div>
             </div>
         </nav>
-        <div class="submenu ">
+        <div class="submenu bg-danger mb-3">
             @await RenderSectionAsync("Submenu",false);
         </div>
     </header>
     <div class="container"> 
         <div class="row ">
-            <div class="col-2 bg-info min-vh-100 fs-2">Side Menu</div>
+
+            <div class="col-lg-1 col-sm-2 bg-info min-vh-100 fs-2">
+                Side Menu
+                <a class="btn btn-success text-white" href="/../Student/registration">Button1</a> <br />
+                <a class="btn btn-primary">Button2</a> <br />
+                <a class="btn btn-warning text-dark">Button1</a> <br />
+                <a class="btn btn-danger text-white">Button1</a> <br />
+            </div>
+            
             <div class="col-10">@RenderBody()</div>
         </div>
+    </div>
 
+    <div class="me-0 mt-4 pb-3 d-flex justify-content-end" >
+            @RenderSection("buttons",false)
     </div>
 
     <footer class="border-top footer text-muted">

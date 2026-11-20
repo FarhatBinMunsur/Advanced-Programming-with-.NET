@@ -33,15 +33,15 @@ app.MapControllerRoute(
 
 app.MapControllerRoute(
     name: "default3",
-    pattern: "{controller=Routing}/{action=Index}/{p1?}/{p2?}")
+    pattern: "{controller=Routing}/{action=Index}/{p1?}")
     .WithStaticAssets();
 
 
 // localhost/Route/Test ->  Routing/TestName
 app.MapControllerRoute(
     name: "Test",       //name does not matter
-    pattern: "route/Test",
-    defaults: new { controller="Routing",action="TestName"}         //kon Controller,kon function. Takes Anonymous object
+    pattern: "routeTest",
+    defaults: new { controller="Routing",action="TestName"}         //kon Controller,kon function. Takes Anonymous object . To make it work, Comment out the farhat and ARs of TestName Action .
     )
     .WithStaticAssets();
 

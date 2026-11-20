@@ -1,0 +1,66 @@
+﻿@model Student; 
+
+<h1>Add a Student</h1>
+
+<div class="row">
+
+    <div name="form" class="col-8">
+
+        <form method="post" action="create">
+     
+        <div class="mb-3">
+        
+            <span>ID: </span> 
+            <input type="text" class="form-control" value="Auto Generated" readonly />
+        </div>
+
+        <div class="form-floating">
+    
+        
+            <input type="text" asp-for="name" class="form-control h3" placeholder="Enter name" />
+            <label asp-for="name"></label>
+            <span class="text-danger fs-6 fw-bold">@Html.ValidationMessage("name")</span>
+            <br /> <br />
+    
+        </div>
+
+        <label >Email</label>
+        <input type="text" name="email" value="@Model?.email"/>
+         <span>@Html.ValidationMessage("email")</span>
+        <br /> <br />
+    
+        
+        @Html.LabelFor(m=>m.cgpa)
+        @Html.TextBoxFor(m=>m.cgpa)
+        @Html.ValidationMessageFor(m => m.cgpa) 
+        <span>@Html.ValidationMessage("cgpa")</span>
+    
+
+        <br />
+        <br />
+        
+        <button type="submit" class="btn btn-primary" >Create</button>
+
+        @Html.TextBox("Nameeee")
+
+        <div></div>
+        </form>
+
+
+    </div>
+
+    <div name="data" class="col-4">
+        <div class="text-start">
+            <div class=" p-4 mt-4 border border-3 bw-6 w-100 border-danger d-inline-block ">
+            <h3 class="text-success">Entered Data</h3>
+            Name:@Model?.name  <br />
+            Email:@Model?.email <br />
+            CGPA:@Model?.cgpa  </br>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+

@@ -1,5 +1,6 @@
 ﻿@{
     ViewData["Title"]="Registration";
+    // Layout = "_CustomLayout";
 }
 
 <h1>Registration</h1>
@@ -19,9 +20,18 @@
 
 </form>
 
+@section Submenu {
+    <p class="fw-bold text-dark">This is Rendersection.Use for Submeu.</p>
+}
+
 <br />
 <div>
     <h3>Your Data</h3>
     <h5>Name: @ViewBag.name</h2>
     <h5>Age: @ViewBag.age</h2>
 </div>
+
+
+@section buttons{
+    <a class="btn btn-primary btn-lg">Back</a>
+}

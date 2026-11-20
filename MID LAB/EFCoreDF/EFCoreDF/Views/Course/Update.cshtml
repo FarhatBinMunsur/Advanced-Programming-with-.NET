@@ -1,0 +1,12 @@
+﻿@model Course 
+
+<form asp-action="Save" asp-route-id="@Model.Id">
+    <label>Course Name: </label>
+    <input asp-for="CourseName" type="text" value="@Model.CourseName" class="form-control"/>
+
+    <label>Course Credit: </label>
+    <input asp-for="Credit" type="number" value="@Model.Credit" min="1" max="4" class="form-control" />
+
+    <br />
+    <input type="submit" value="Save" class="btn btn-warning"/>
+</form>

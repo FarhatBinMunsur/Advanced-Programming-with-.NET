@@ -1,0 +1,41 @@
+﻿@using EFcoreDFpmb.Models;
+@model List<Depertment>
+
+@{
+    ViewData["Title"] = "Mahir";
+}
+@{
+    if (TempData["success"] != null)
+    {
+        <span class="text-bg-danger">
+            @TempData["success"]
+        </span>
+    }
+   
+}
+<a asp-controller="" asp-action="Create" class="btn btn-primary">Create</a>
+<table class="table">
+    <tr>
+        <th>Did</th>
+        <th>Dept Name</th>
+        <th>Courses</th>
+        <th>Act</th>
+
+
+    </tr>
+
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.Id</td>
+            <td>@d.DeptName</td>
+            <td>@d.Courses</td>
+            <td>
+                <a asp-controller="" asp-action="Update" asp-route-id="@d.Id">Update</a>
+                <a asp-controller="" asp-action="Delete" asp-route-id="@d.Id">Delete</a>
+
+            </td>
+
+        </tr>
+    }
+</table>

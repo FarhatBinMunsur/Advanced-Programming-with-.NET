@@ -189,10 +189,8 @@ D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Design
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\staticwebassets.development.json
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\swae.build.ex.cache
-D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\Designing_JHL_2.dll
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\refint\Designing_JHL_2.dll
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\Designing_JHL_2.pdb
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\Designing_JHL_2.genruntimeconfig.cache
 D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\ref\Designing_JHL_2.dll
-D:\AIUB\AIUB 9th(Fall 26-27) Semester\Advance Prog. with .NET\LAB\MID LAB\Designing_JHL_3\Designing_JHL_2\obj\Debug\net10.0\Designin.6F6B0A1B.Up2Date

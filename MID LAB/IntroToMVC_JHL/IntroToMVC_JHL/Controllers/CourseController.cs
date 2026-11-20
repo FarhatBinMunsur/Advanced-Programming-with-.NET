@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
 
 namespace IntroToMVC_JHL.Controllers
 {
@@ -30,7 +31,7 @@ namespace IntroToMVC_JHL.Controllers
             {
                 var cssFile = System.IO.File.ReadAllBytes("wwwroot/css/site.css");
 
-                return File(cssFile, "text/css", "FarhatCSS.css");
+                return File(cssFile, "text/pdf", "FarhatCSS.");
             }
             else if (id == 5)
             {
@@ -40,7 +41,9 @@ namespace IntroToMVC_JHL.Controllers
             }
             else
             {
-                return RedirectToAction("Index","course");
+                //return StatusCode(500);
+                return NotFound();
+                
             }
         }
 

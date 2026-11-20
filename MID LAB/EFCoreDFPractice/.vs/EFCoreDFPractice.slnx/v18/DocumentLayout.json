@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\efcoredfpractice\\efcoredfpractice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|solutionrelative:efcoredfpractice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\efcoredfpractice\\efcoredfpractice\\views\\employee\\departmentaverage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|solutionrelative:efcoredfpractice\\views\\employee\\departmentaverage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\efcoredfpractice\\efcoredfpractice\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|solutionrelative:efcoredfpractice\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\efcoredfpractice\\efcoredfpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|solutionrelative:efcoredfpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\efcoredfpractice\\efcoredfpractice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|solutionrelative:efcoredfpractice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\efcoredfpractice\\efcoredfpractice\\efcoredfpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|solutionrelative:efcoredfpractice\\efcoredfpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\efcoredfpractice\\efcoredfpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D3A3B67-8F23-BE4F-EA36-1E4D5929C076}|EFCoreDFPractice\\EFCoreDFPractice.csproj|solutionrelative:efcoredfpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentAverage.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Views\\Employee\\DepartmentAverage.cshtml",
+              "RelativeDocumentMoniker": "EFCoreDFPractice\\Views\\Employee\\DepartmentAverage.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Views\\Employee\\DepartmentAverage.cshtml",
+              "RelativeToolTip": "EFCoreDFPractice\\Views\\Employee\\DepartmentAverage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-03T09:23:41.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCoreDFPractice\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EFCoreDFPractice\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-03T07:32:38.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EFCoreDFPractice\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EFCoreDFPractice\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:27:05.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreDFPractice\\Program.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Program.cs",
+              "RelativeToolTip": "EFCoreDFPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:23:18.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCoreDFPractice\\Models\\Employee.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\Models\\Employee.cs",
+              "RelativeToolTip": "EFCoreDFPractice\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:22:01.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFCoreDFPractice.csproj",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\EFCoreDFPractice.csproj",
+              "RelativeDocumentMoniker": "EFCoreDFPractice\\EFCoreDFPractice.csproj",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\EFCoreDFPractice.csproj",
+              "RelativeToolTip": "EFCoreDFPractice\\EFCoreDFPractice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-03T07:20:09.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCoreDFPractice\\appsettings.json",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EFCoreDFPractice\\EFCoreDFPractice\\appsettings.json",
+              "RelativeToolTip": "EFCoreDFPractice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-03T07:16:26.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

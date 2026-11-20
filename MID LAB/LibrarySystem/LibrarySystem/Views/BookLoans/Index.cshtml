@@ -1,0 +1,64 @@
+﻿@model List<BookLoan>
+<h1>All loans</h1>
+
+@if (ViewBag.noData == null)
+{
+    @ViewBag.noData;
+}
+
+<table class="table table-bordered" style="table-layout: fixed;">
+    <tr>
+        <th>Loan ID</th>
+        <th>Member Name</th>
+        <th>Genre</th>
+        <th>LoanDays</th>
+        <th>LateFee</th>
+        <th>BorrowedAt</th>
+        <th>Label</th>
+        <th>Badge</th>
+
+    </tr>
+
+    @foreach (var l in Model)
+    {
+        <tr>
+            <td>@l.LoanId</td>
+            <td>@l.MemberName</td>
+            <td>@l.Genre</td>
+            <td>@l.LoanDays</td>
+            <td>@l.LateFee</td>
+            <td>@l.BorrowedAt</td>
+            @{
+            if (l.LateFee > 0)
+            {
+                <td class="table-danger">Late</td>
+            }
+            else if (l.LateFee == 0)
+            {
+                <td class="table table-success">On time</td>
+            }
+            }
+            @{
+            if (l.LoanDays > 14)
+            {
+                <td class="">Long Loan</td>
+
+            }
+            else
+            {
+                <td class="">No Badge</td>
+            }
+            }
+
+        </tr>
+    }
+</table>
+
+<div class="mt-5">
+
+</div>
+
+<a class="btn btn-primary" asp-action="LongestPerGenre">LongestPerGenre</a>
+
+
+

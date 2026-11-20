@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\entityframework_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\entityframework_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\entityframework_1\\entityframework_1\\entityframework_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26B98E3E-5B64-BC81-4F19-007A1764B5B1}|EntityFramework_1\\EntityFramework_1.csproj|solutionrelative:entityframework_1\\entityframework_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "EntityFramework_1\\Views\\Student\\Index.cshtml",
@@ -67,12 +67,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-12T14:58:53.142Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\EF\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EntityFramework_1\\EF\\AppDbContext.cs",
@@ -81,17 +80,18 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T14:39:15.376Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "EntityFramework_1\\Controllers\\StudentController.cs",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Controllers\\StudentController.cs",
               "RelativeToolTip": "EntityFramework_1\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T14:58:14.804Z",
               "IsPinned": true,
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "create.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Views\\Student\\create.cshtml",
               "RelativeDocumentMoniker": "EntityFramework_1\\Views\\Student\\create.cshtml",
@@ -108,18 +108,17 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-13T08:16:20.757Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "EntityFramework_1\\Models\\Student.cs",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Models\\Student.cs",
               "RelativeToolTip": "EntityFramework_1\\Models\\Student.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T14:50:58.718Z",
               "IsPinned": true
@@ -138,20 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EntityFramework_1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EntityFramework_1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-19T14:45:24.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Views\\Student\\Delete.cshtml",
               "RelativeDocumentMoniker": "EntityFramework_1\\Views\\Student\\Delete.cshtml",
@@ -163,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "EntityFramework_1\\Views\\Student\\Edit.cshtml",
@@ -175,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Program.cs",
               "RelativeDocumentMoniker": "EntityFramework_1\\Program.cs",
@@ -183,12 +169,36 @@
               "RelativeToolTip": "EntityFramework_1\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T15:34:12.033Z",
+              "WhenOpened": "2026-10-12T15:34:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityFramework_1\\appsettings.json",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\appsettings.json",
+              "RelativeToolTip": "EntityFramework_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T14:40:51.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EntityFramework_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EntityFramework_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T14:45:24.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "EntityFramework_1.csproj",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\EntityFramework_1.csproj",
               "RelativeDocumentMoniker": "EntityFramework_1\\EntityFramework_1.csproj",
@@ -197,18 +207,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-10-12T15:27:38.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\appsettings.json",
-              "RelativeDocumentMoniker": "EntityFramework_1\\appsettings.json",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\EntityFramework_1\\EntityFramework_1\\appsettings.json",
-              "RelativeToolTip": "EntityFramework_1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-12T14:40:51.414Z"
             }
           ]
         }

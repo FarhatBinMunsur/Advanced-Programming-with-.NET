@@ -6,48 +6,40 @@ namespace Errors_JHL_4.Attributes
 {
     public class DeptCheck : ValidationAttribute
     {
-        protected string user;
 
         //check elligibility based on userType and Age
-        public DeptCheck(string user)
-        {
-            this.user = user;
-        }
-
+  
         protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
         {
-
-            object modelData;
             
 
             if (value is DateTime dt)
             {
                 var age = (DateTime.Now - dt).TotalDays / 365;      // (datetime-datetime) gives timespan format.convert the timsapn to days,minutes,hours
 
-                
+                var dept = validationContext.ObjectType.GetProperty("Dept");
 
-                if (validationContext.ObjectInstance is Student st)
+                if(dept == null)
                 {
-                    modelData = (Student)validationContext.ObjectInstance;
-
+                    return new ValidationResult("Invalid Dept");
                 }
 
-                if (user == "fct")
+                var deptValue = dept.GetValue(validationContext.ObjectInstance)?.ToString();
+
+                if (deptValue == null)
                 {
-                    modelData = (Faculty)validationContext.ObjectInstance;
+                    return new ValidationResult("Invalid Dept");
+                }
+                if (deptValue!=null && deptValue =="1" && age<18)
+                {  
+                        return new ValidationResult("To Select CSE, Age must be grater than 18 to Apply");
                 }
 
-                //cast to model. So that I can access the properties of the model.
-
-                if (age < 18 && user== "st")
+                if (deptValue != null && deptValue == "2" && age<24)
                 {
-                    return new ValidationResult("Student Age must be grater than 18 to Apply");
+                        return new ValidationResult("To Select EEE, Age must be grater than 24 to Apply");
                 }
 
-                if (age < 24 && user== "fct" )
-                {
-                    return new ValidationResult("Faculty Age must be grater than 24 to Apply");
-                }
             }
 
             //datetime na hole

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\views\\student\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\views\\student\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +23,20 @@
       "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\attributes\\deptcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\views\\student\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\views\\student\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\errors_jhl_4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\errors_jhl_4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|solutionrelative:errors_jhl_4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD2694A5-8B5D-1828-410B-1E4E523E889C}|Errors_JHL_4\\Errors_JHL_4.csproj|d:\\aiub\\aiub 9th(fall 26-27) semester\\advance prog. with .net\\lab\\mid lab\\errors_jhl_4.2\\errors_jhl_4\\views\\faculty\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,64 +66,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FacultyController.cs",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Controllers\\FacultyController.cs",
-              "RelativeDocumentMoniker": "Errors_JHL_4\\Controllers\\FacultyController.cs",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Controllers\\FacultyController.cs",
-              "RelativeToolTip": "Errors_JHL_4\\Controllers\\FacultyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T17:45:32.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DeptCheck.cs",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Attributes\\DeptCheck.cs",
               "RelativeDocumentMoniker": "Errors_JHL_4\\Attributes\\DeptCheck.cs",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Attributes\\DeptCheck.cs",
               "RelativeToolTip": "Errors_JHL_4\\Attributes\\DeptCheck.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T17:33:10.458Z",
+              "WhenOpened": "2026-11-13T14:21:54.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Errors_JHL_4\\Views\\Student\\Create.cshtml",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "Errors_JHL_4\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA0AAABSAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-28T15:48:34.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Errors_JHL_4\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Errors_JHL_4\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwHwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:26:53.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacultyController.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Controllers\\FacultyController.cs",
+              "RelativeDocumentMoniker": "Errors_JHL_4\\Controllers\\FacultyController.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Controllers\\FacultyController.cs",
+              "RelativeToolTip": "Errors_JHL_4\\Controllers\\FacultyController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:45:32.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Faculty\\Create.cshtml",
               "RelativeDocumentMoniker": "Errors_JHL_4\\Views\\Faculty\\Create.cshtml",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Faculty\\Create.cshtml",
               "RelativeToolTip": "Errors_JHL_4\\Views\\Faculty\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-29T17:58:00.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Faculty.cs",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Models\\Faculty.cs",
               "RelativeDocumentMoniker": "Errors_JHL_4\\Models\\Faculty.cs",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Models\\Faculty.cs",
               "RelativeToolTip": "Errors_JHL_4\\Models\\Faculty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T17:31:07.088Z",
               "EditorCaption": ""
@@ -123,39 +144,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Student\\Success.cshtml",
-              "RelativeDocumentMoniker": "Errors_JHL_4\\Views\\Student\\Success.cshtml",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Student\\Success.cshtml",
-              "RelativeToolTip": "Errors_JHL_4\\Views\\Student\\Success.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T18:20:34.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Errors_JHL_4\\Models\\Student.cs",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Models\\Student.cs",
               "RelativeToolTip": "Errors_JHL_4\\Models\\Student.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-28T15:27:04.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Errors_JHL_4\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Errors_JHL_4\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T15:26:53.397Z"
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Errors_JHL_4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Errors_JHL_4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T09:08:03.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Errors_JHL_4",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Errors_JHL_4.csproj",
+              "RelativeDocumentMoniker": "Errors_JHL_4\\Errors_JHL_4.csproj",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Errors_JHL_4.csproj",
+              "RelativeToolTip": "Errors_JHL_4\\Errors_JHL_4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-13T14:24:19.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Student\\Success.cshtml",
+              "RelativeDocumentMoniker": "Errors_JHL_4\\Views\\Student\\Success.cshtml",
+              "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4.2\\Errors_JHL_4\\Views\\Student\\Success.cshtml",
+              "RelativeToolTip": "Errors_JHL_4\\Views\\Student\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T18:20:34.53Z",
+              "EditorCaption": ""
             }
           ]
         }

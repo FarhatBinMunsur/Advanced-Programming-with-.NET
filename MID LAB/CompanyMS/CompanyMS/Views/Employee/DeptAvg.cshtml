@@ -1,0 +1,15 @@
+﻿<table class="table table-bordered">
+    <tr>
+        <th>Department</th>
+        <th>Average</th>
+    </tr>
+
+    @foreach (var d in ViewBag.deptavg)
+    {
+        <tr>
+            <td>@d.Department</td>
+            <td>@d.AverageSalary.ToString("F2")</td>
+        </tr>
+
+    }
+</table>

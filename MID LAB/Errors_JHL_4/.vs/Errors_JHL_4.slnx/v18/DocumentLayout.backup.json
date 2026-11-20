@@ -50,8 +50,7 @@
               "RelativeToolTip": "Errors_JHL_4\\Views\\Student\\Success.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T18:20:34.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T18:20:34.53Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Errors_JHL_4\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T15:48:34.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T15:48:34.458Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "Errors_JHL_4\\Models\\Student.cs",
               "ToolTip": "D:\\AIUB\\AIUB 9th(Fall 26-27) Semester\\Advance Prog. with .NET\\LAB\\MID LAB\\Errors_JHL_4\\Errors_JHL_4\\Models\\Student.cs",
               "RelativeToolTip": "Errors_JHL_4\\Models\\Student.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-28T15:27:04.583Z",
               "EditorCaption": ""
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Errors_JHL_4\\Controllers\\StudentController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAgwFsAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T15:26:53.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T15:26:53.397Z"
             }
           ]
         }

@@ -1,0 +1,27 @@
+﻿@model Student
+
+<h1 class="form-control-color text-primary">Login</h1>
+
+<form method="post">
+    Id:
+    <input type="text" name="Id" class="form-control" />
+
+    <br />
+
+    Password:
+    <input type="password" name="Password" class="form-control" />
+
+    <br />
+
+    <input type="submit" value="Login" class="form-control btn btn-dark" />
+    
+    <div class="mt-5 ">
+        @{
+            if (TempData["login_Error"] != null)
+            {
+                <span class="alert alert-danger form-control text-center">@TempData["login_Error"]</span>
+            }
+        }
+    </div>
+    
+</form>

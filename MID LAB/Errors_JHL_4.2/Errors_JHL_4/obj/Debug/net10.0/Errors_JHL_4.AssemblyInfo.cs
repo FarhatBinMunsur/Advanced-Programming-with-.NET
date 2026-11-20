@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Errors_JHL_4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+187be09f6c81685b4a2ee3691f5a02e22cfa0732")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a93332f54210076f5d6341c1143a8b5cfe21868")]
 [assembly: System.Reflection.AssemblyProductAttribute("Errors_JHL_4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Errors_JHL_4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

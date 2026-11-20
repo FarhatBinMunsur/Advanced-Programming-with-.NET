@@ -1,6 +1,8 @@
 ﻿@{
     ViewData["Title"]="Custom Title";
+    // Layout = null;
 }
+
 <h1>@ViewBag.id</h1>
 
 <div>
@@ -25,3 +27,13 @@
     </table>
     
 </div>
+
+<div>
+    <a asp-controller="Routing" asp-action="index" class="btn btn-primary">Home</a>  @* will redirect to farhat/first automatically.This is the benifit of AR. *@
+</div>
+
+
+
+@section scripts{
+    <script>alert("Loaded");</script>
+}

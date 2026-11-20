@@ -1,0 +1,39 @@
+﻿@model Passport
+<form action="" method="post">
+    
+    <input type="radio" value="true" asp-for="IsInternational" class="form-check-input" />Yes
+    @* <input type="radio" value="false" asp-for="IsInternational"  class="form-check-input"/>No *@
+    @Html.RadioButtonFor(m=>m.IsInternational,false,new{@class="form-check-input",id="nooo"}) @Html.Label("nooo","No")
+
+    <br />
+
+    <div class="form-floating">
+        <input asp-for="PassportNo" class="form-control text-danger" placeholder="Enter Pass no." >
+        @* @Html.TextBoxFor(m=>m.PassportNo) *@
+        @* @Html.TextBox("PassportNo"); *@
+        <label asp-for="PassportNo"></label>
+        <br />
+    </div>
+    
+    <span asp-validation-for="PassportNo"></span>
+    <br />
+
+    Depertment: 
+    <select asp-items="ViewBag.depts" asp-for="Dept" class="form-select-inline">
+    </select>
+    <button type="submit">Submit</button>
+</form>
+
+
+
+<div class="alert alert-success mt-3">
+    @{
+    if (@ViewBag.Success != null)
+    {
+        @ViewBag.Success    
+    }
+    
+    
+}
+</div>
+

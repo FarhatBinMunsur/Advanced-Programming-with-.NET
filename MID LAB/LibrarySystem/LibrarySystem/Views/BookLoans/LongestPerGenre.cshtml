@@ -1,0 +1,19 @@
+﻿@model List<BookLoan>
+<table class="table">
+    <tr>
+        <th>Genre</th>
+        <th>Loan Days</th>
+        <th>Late Fee</th>
+
+    </tr>
+
+    @foreach (var b in Model)
+    {
+        <tr class="@(b.LateFee==ViewBag.maxLateFee? "table table-info":"")">
+            <td>@b.Genre</td>
+            <td>@b.LoanDays</td>
+            <td>@b.LateFee</td>
+        </tr>
+    }
+
+</table>

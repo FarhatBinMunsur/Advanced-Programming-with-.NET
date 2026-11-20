@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Designing_JHL_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f87bef3eff42be7359f0ff60bf36075f69c3074a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a93332f54210076f5d6341c1143a8b5cfe21868")]
 [assembly: System.Reflection.AssemblyProductAttribute("Designing_JHL_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Designing_JHL_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

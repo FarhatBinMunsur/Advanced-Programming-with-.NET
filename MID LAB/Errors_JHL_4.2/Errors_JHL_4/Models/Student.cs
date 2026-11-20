@@ -33,7 +33,7 @@ namespace Errors_JHL_4.Models
 
         [DateCheck]
         [Display(Name="Date of Birth :")]
-        [DeptCheck("st")]
+        [DeptCheck]
         public DateTime Dob { get; set; }
 
 
